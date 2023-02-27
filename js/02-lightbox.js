@@ -9,7 +9,7 @@ const createGallery = galleryItems.map(({ preview, original, description }) => {
           </a>`;
 }).join('')
 
-galleryEl.innerHTML = createGallery;
+
 
 
 
